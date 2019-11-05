@@ -1,0 +1,14 @@
+### Keybase proof
+I hereby claim:
+  * I am elcico3 on github.  * I am elcico (https://keybase.io/elcico) on keybase.  * I have a public key ASA88Ojy__u4CauEo4-ECJD7RIySum2-Fj9g0H8-lidxYgo
+To claim this, I am signing this object:
+```json{  "body": {    "key": {      "eldest_kid": "01203cf0e8f2fffbb809ab84a38f840890fb448c92ba6dbe163f60d07f3e962771620a",      "host": "keybase.io",      "kid": "01203cf0e8f2fffbb809ab84a38f840890fb448c92ba6dbe163f60d07f3e962771620a",      "uid": "5f7cc55e817873e318a1e9be63783919",      "username": "elcico"    },    "merkle_root": {      "ctime": 1572946549,      "hash": "90cc70b54731a7eaea6306ad5f0461c67b76471434d33d915b40ddecca25c4b6c8a51234c100c271369adf51aabb324936e39e8179b28e489f160d37b9535258",      "hash_meta": "b0ec01567972fd3a10d9ba6b97c9d056f6d37ae881483a02cea92e8fc72cb004",      "seqno": 8747819    },    "service": {      "entropy": "fabBugd+hh8HQ7dXs4l8wzXI",      "name": "github",      "username": "elcico3"    },    "type": "web_service_binding",    "version": 2  },  "client": {    "name": "keybase.io go client",    "version": "4.7.2"  },  "ctime": 1572946556,  "expire_in": 504576000,  "prev": "ca574b44616561844c2689fa361b5605aa45741fea08c478f0e9fe683c026519",  "seqno": 7,  "tag": "signature"}```
+with the key [ASA88Ojy__u4CauEo4-ECJD7RIySum2-Fj9g0H8-lidxYgo](https://keybase.io/elcico), yielding the signature:
+```hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPPDo8v/7uAmrhKOPhAiQ+0SMkrptvhY/YNB/PpYncWIKp3BheWxvYWTESpcCB8QgyldLRGFlYYRMJon6NhtWBapFdB/qCMR48On+aDwCZRnEINqjtnZAI1uxqjUnj4C+FahzvnUVK+8n0+yIVZigmy39AgHCo3NpZ8RA9c/yG8drVJZ4Jrcb+tu4LOOWTnW53TmMHOR5kuoGfaNU+L9Tdk1kzTstU2YaZ3ArzvcGTrMxZItkDcJ1VzwfA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILiB0IVC+CkkGqDifcKNzk6QN6ZXrQSUzyyyedQeVn9Do3RhZ80CAqd2ZXJzaW9uAQ==
+```
+And finally, I am proving ownership of the github account by posting this as a gist.
+### My publicly-auditable identity:
+https://keybase.io/elcico
+### From the command line:
+Consider the [keybase command line program](https://keybase.io/download).
+```bash# look me upkeybase id elcico```
